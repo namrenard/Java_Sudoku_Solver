@@ -2,11 +2,10 @@
 A small project to make a sudoku solver : project for my training course with CNAM. 
 
 # How to use
-1- Open a terminal,
-2- place a grid template like in the grid template directory next to the program
-3- Execute the program with this command : 
-java -jar NFP136.jar "grid_name.txt"
-4- The solution will be given in the prompt windows
+1- Download the file.jar
+2- Put a grid  with name "grille.txt" in the same directory than the jar file.
+3- Execute the program with the .bat file
+4- The solution will be given in the prompt.
 
 # Version
 1.0 
